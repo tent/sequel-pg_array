@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "sequel-pg_array"
   gem.version       = Sequel::Plugins::PGArray::VERSION
   gem.authors       = ["Jesse Stuart"]
-  gem.email         = ["jessestuart@gmail.com"]
+  gem.email         = ["jesse@jessestuart.ca"]
   gem.description   = %q{Sequel ORM Plugin for serializing columns as Postges Arrays build atop Sequel::Plugins::Serialization}
   gem.summary       = %q{Sequel ORM Plugin for serializing columns as Postges Arrays}
   gem.homepage      = "https://github.com/tent/sequel-pg_array"
